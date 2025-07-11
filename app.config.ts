@@ -113,12 +113,12 @@ export const ADMIN_NAV_LINKS = [
 
 export const Assets = {
   BOX_EMPTY_PNG: '/box-empty.png',
-  LOGO_SVG: '/logo.svg',
+  LOGO_SVG: '/favicon.png',
   LOGO_NO_BG_SVG: '/logo-no-bg.svg',
 }
 
 export const ExternalLinks = {
-  REPO: 'https://github.com/Y80/bmm',
+  REPO: 'https://github.com/s1xnEvo/azu',
 } as const
 
 /** 默认情况下每页获取的书签个数；出于栅格布局的考虑这里选用 24 */
