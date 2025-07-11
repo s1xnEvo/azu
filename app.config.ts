@@ -113,7 +113,7 @@ export const ADMIN_NAV_LINKS = [
 
 export const Assets = {
   BOX_EMPTY_PNG: '/box-empty.png',
-  LOGO_SVG: '/favicon.png',
+  LOGO_SVG: '/logo.svg',
   LOGO_NO_BG_SVG: '/logo-no-bg.svg',
 }
 
